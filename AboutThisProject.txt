@@ -1,0 +1,20 @@
+Project: Talking Book
+Type: Mobile Application (Windows Phone)
+Event: Chula Loves The Earth Windows Phone 8 Contest
+Start Date: 1 JUN 2013
+Current Status: Design
+
+Team Member
+1. Thanawut Ananpiriyakul
+2. Piyapan Poomsirivilai
+
+Objective
+1. To create mobile application for voluntary audio book creation
+2. To develop voluntary policy for creating and reviewing audio book.
+
+Overview of Application
+1. Support Windows Phone 8 operating system.
+2. Support audio book play function.
+3. Support audio book create/record function.
+4. Support audio book review function.
+5. Support Thai language.
